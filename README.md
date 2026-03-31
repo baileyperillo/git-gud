@@ -1,5 +1,9 @@
 # Git Gud
 
+**Note from Bailey: I worked on https://github.com/AmadouD-git/git-gud
+See work there
+
+
 This repository was created for MHC++'s Spring 2026 Git Gud workshop. This workshop aims to teach the fundamental concepts and workflows behind Git and GitHub collaboration, while allowing you to practice them through guided exercises.
 
 By the end of this workshop, you will know how to:
